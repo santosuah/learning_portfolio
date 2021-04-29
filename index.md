@@ -8,7 +8,7 @@ modelado de amenazas, operaciones de seguridad y revisiones externas, entre otra
 
 <br/>
 <p align="center">
-  <img src="img/la_otra_asignatura.png" width=300>
+  <img src="img/la_otra_asignatura.png" width=400>
 </p>
 <br/>
 
@@ -25,7 +25,7 @@ Esta última técnica de enseñanza es especialmente interesante; consiste en di
 <br/>
 <p align="center">
   <a href="https://pixabay.com/es/photos/puzzle-%C3%BAltima-parte-reuniendo-3223941/" target="_blank">
-    <img src="img/puzzle.jpg" width=350>
+    <img src="img/puzzle.jpg" width=500>
   </a>
 </p>
 <br/>
@@ -48,7 +48,7 @@ También tomar conciencia de la aplicación práctica de los conocimientos adqui
 Las actividades grupales no son una mera exigencia administrativa, son muy habituales en todo tipo de **actividades interactivas** dentro de clase. La **disposición dentro de clase** se organiza entorno los equipos, distribuyendo las posiciones de los alumnos dentro del aula semanalmente, dependiendo del tipo de actividades a realizar.
 
 <p align="center">
-    <img src="img/disposicion.png" width=400>
+    <img src="img/disposicion.png" width=500>
 </p>
 <br/>
 
@@ -61,7 +61,7 @@ Las actividades grupales no son una mera exigencia administrativa, son muy habit
 Se ha hecho empleo de nuevo de la aplicación ***Socrative***, la conocida aplicación para realizar preguntas a los estudiantes y medir el feedback aportado. Los problemas planteados a veces han sido tipo test, pero resueltos en grupos. Estos cuestionarios en ocasiones son evaluables, aunque principalmente miden la progresión académica de la asignatura (y del máster en general).
 
 <p align="center">
-    <img src="img/test.png" width=300>
+    <img src="img/test.png" width=500>
 </p>
 
 También se ha utilizado en una ocasión un cuestionario externo ***concept inventory/curriculum assessment***, permiten valorar hasta qué punto se han adquirido los conceptos y competencias fundamentales de una disciplina, a través de una serie de preguntas 25 preguntas de tipo test diseñadas.
