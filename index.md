@@ -190,7 +190,7 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
 
 -  Lectura: **Capítulo 1 - Why design matters for security?/¿Por qué el diseño es importante para la seguridad?** (Secure by Design, Johnson, Deogun y Sawano)
 
-    Secure by Design es uno de los principales libros de la asiganatura. Propone utilizar el diseño seguro en el desarrollo software para solventar los problemas de seguridad generados.
+    Secure by Design es uno de los principales libros de la asignatura. Propone utilizar el diseño seguro en el desarrollo software para solventar los problemas de seguridad generados.
     Las principales ideas extraídas son:
   
     - La seguridad es una preocupación, no una característica
@@ -303,7 +303,7 @@ Se encuentra **estructurado** de acuerdo a las diferentes **dimensiones de la se
 - Firewall de Windows
 - Exploit protection 
 - Opciones de privacidad
-- Publicación Especial(SP) 800-61 del NIST
+- Publicación Especial (SP) 800-61 del NIST
 - Arranque seguro (secure boot)
 - Política de contraseñas
 - Coordinated Vulnerability Disclosure
@@ -325,7 +325,7 @@ Se encuentra **estructurado** de acuerdo a las diferentes **dimensiones de la se
 
 ---
 
-Desarrollo de un sistema inteligente para monitorizar personas mayores y/o dependientes. En el se especifican los objetivos del sistema, los requisitos funcionales y de seguridad.
+Desarrollo de un sistema inteligente para monitorizar personas mayores y/o dependientes. En él se especifican los objetivos del sistema, los requisitos funcionales y de seguridad.
 
 La arquitectura se basó en una arquitectura IoT de base y a partir de ahí se añadieron sucesivas modificaciones en el diseño para hacerlo seguro ante amenazas identificadas.
 
