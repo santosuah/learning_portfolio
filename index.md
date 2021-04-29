@@ -41,6 +41,7 @@ El espíritu crítico y/o reflexivo se fomenta en cada una de las sesiones media
 También tomar conciencia de la aplicación práctica de los conocimientos adquiridos previos, algo que en nuestra disciplina muy centrada sólo en aspectos técnicos se olvida habitualmente.
 
 ---
+
 <br/>
 
 ### Los equipos como unidad de trabajo
@@ -50,7 +51,6 @@ Las actividades grupales no son una mera exigencia administrativa, son muy habit
 <p align="center">
     <img src="img/disposicion.png" width=500>
 </p>
-<br/>
 
 ---
 
@@ -67,6 +67,7 @@ Se ha hecho empleo de nuevo de la aplicación ***Socrative***, la conocida aplic
 También se ha utilizado en una ocasión un cuestionario externo ***concept inventory/curriculum assessment***, permiten valorar hasta qué punto se han adquirido los conceptos y competencias fundamentales de una disciplina, a través de una serie de preguntas 25 preguntas de tipo test diseñadas.
 
 ---
+
 <br/>
 
 ### La pedagogía
@@ -104,7 +105,7 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
 
   Se calculan automáticamente rutas/caminos de posibles intrusiones haciendo uso de vulnerabilidades. Se establecen prioridades según el nivel de amenaza calculada en lo referente al parcheo de dispositivos. Esta metodología puede encontrar la ruta más probable del atacante y priorizar los parches en redes grandes.
 
-  https://radiflow.com/optimizing-ot-security-through-automatic-attacker-evaluation/
+  <https://radiflow.com/optimizing-ot-security-through-automatic-attacker-evaluation/>
 
 <br/>
 
@@ -156,7 +157,7 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
     </a>
   </p>
 
-  https://eopgame.azurewebsites.net/
+  <https://eopgame.azurewebsites.net/>
 
   Este juego se aplica de forma práctica sobre la arquitectura anterior para descubrir nuevas amenazas que no se habían tenido en cuenta.
 
@@ -173,7 +174,7 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
     </a>
   </p>
 
-  https://owasp.org/www-project-api-security/
+  <https://owasp.org/www-project-api-security/>
 
 <br/>
 
@@ -211,7 +212,7 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
   </p>
  
 
-  https://www.cisecurity.org/press-release/cis-launches-election-technology-procurement-guide/
+  <https://www.cisecurity.org/press-release/cis-launches-election-technology-procurement-guide/>
 
 <br/>
 
@@ -252,9 +253,9 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
 - **Semmle/CodeQL**
   Se trata de un proveedor de plataforma de análisis de código, que emplea un motor de consultas CodeQL para realizar análisis semántico en bases de código de software, con el fin de encontrar vulnerabilidades en el código. Existe un proyecto de investigación en Github donde se emplea esta tecnología.
 
-  https://securitylab.github.com/tools/codeql/
+  <https://securitylab.github.com/tools/codeql/>
 
-  https://github.com/github/codeql
+  <https://github.com/github/codeql>
 
 <br/>
 
