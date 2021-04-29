@@ -53,6 +53,7 @@ Las actividades grupales no son una mera exigencia administrativa, son muy habit
 <br/>
 
 ---
+
 <br/>
 
 ### El feedback
