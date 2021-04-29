@@ -272,6 +272,8 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
 
 La seguridad en el sistema operativo Windows. Trabajo de investigación sobre los **mecanismos de seguridad en el sistema operativo Windows**.
 
+<br/>
+
   <p align="center">
     <a href="pdf/seguridad_windows.pdf" target="_blank">
       <img src="img/seguridad_windows1.png" width=700>
@@ -293,6 +295,8 @@ Se encuentra **estructurado** de acuerdo a las diferentes **dimensiones de la se
       <img src="img/seguridad_windows2.png" width=700>
     </a>
   </p>
+  
+<br/>
 
 - Windows Defender
 - Firewall de Windows
@@ -338,6 +342,8 @@ La arquitectura se basó en una arquitectura IoT de base y a partir de ahí se a
     </a>
   </p>
 
+<br/>
+
   Se puede observar la evolución de los diagramas físicos del sistema hasta su interacción final.
 
   <p align="center">
@@ -362,6 +368,8 @@ La arquitectura se basó en una arquitectura IoT de base y a partir de ahí se a
     </a>
   </p>
 
+<br/>
+
 Se selecciona que dispositivos se requieren para su implementación. Se hace un estudio pormenorizado de la cadena de suministro (interacciones entre proveedores y clientes) con el objetivo de asegurarla.
 
   <p align="center">
@@ -370,6 +378,8 @@ Se selecciona que dispositivos se requieren para su implementación. Se hace un 
     </a>
   </p>
 
+<br/>
+
 También se ha trabajado con el modelo de amenazas STRIDE, en el que se encuentran amenazas tales como:
 
   <p align="center">
@@ -377,6 +387,8 @@ También se ha trabajado con el modelo de amenazas STRIDE, en el que se encuentr
       <img src="img/monitorizacion3.png" width=700>
     </a>
   </p>
+
+<br/>
 
 - Suplantación de la persona dependiente
 - Falta de autenticación o errores de emparejamiento
