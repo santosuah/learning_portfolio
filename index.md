@@ -274,7 +274,7 @@ La seguridad en el sistema operativo Windows. Trabajo de investigación sobre lo
 
   <p align="center">
     <a href="pdf/seguridad_windows.pdf" target="_blank">
-      <img src="img/seguridad_windows1.png" width=550>
+      <img src="img/seguridad_windows1.png" width=700>
     </a>
   </p>
 
@@ -290,7 +290,7 @@ Se encuentra **estructurado** de acuerdo a las diferentes **dimensiones de la se
 
   <p align="center">
     <a href="pdf/seguridad_windows.pdf" target="_blank">
-      <img src="img/seguridad_windows2.png" width=550>
+      <img src="img/seguridad_windows2.png" width=700>
     </a>
   </p>
 
@@ -310,7 +310,7 @@ Se encuentra **estructurado** de acuerdo a las diferentes **dimensiones de la se
 
   <p align="center">
     <a href="pdf/seguridad_windows.pdf" target="_blank">
-      <img src="img/seguridad_windows3.png" width=550>
+      <img src="img/seguridad_windows3.png" width=700>
     </a>
   </p>
 
@@ -342,7 +342,7 @@ La arquitectura se basó en una arquitectura IoT de base y a partir de ahí se a
 
   <p align="center">
     <a href="pdf/monitorizacion.pdf" target="_blank">
-      <img src="img/arquitectura_pef_inicial.png" width=650>
+      <img src="img/arquitectura_pef_inicial.png" width=700>
     </a>
   </p>
 
@@ -358,7 +358,7 @@ La arquitectura se basó en una arquitectura IoT de base y a partir de ahí se a
 
   <p align="center">
     <a href="pdf/monitorizacion.pdf" target="_blank">
-      <img src="img/esquema-fisico2.png" width=650>
+      <img src="img/esquema-fisico2.png" width=700>
     </a>
   </p>
 
@@ -366,7 +366,7 @@ Se selecciona que dispositivos se requieren para su implementación. Se hace un 
 
   <p align="center">
     <a href="pdf/monitorizacion.pdf" target="_blank">
-      <img src="img/monitorizacion2.png" width=650>
+      <img src="img/monitorizacion2.png" width=700>
     </a>
   </p>
 
@@ -374,7 +374,7 @@ También se ha trabajado con el modelo de amenazas STRIDE, en el que se encuentr
 
   <p align="center">
     <a href="pdf/monitorizacion.pdf" target="_blank">
-      <img src="img/monitorizacion3.png" width=650>
+      <img src="img/monitorizacion3.png" width=700>
     </a>
   </p>
 
