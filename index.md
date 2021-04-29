@@ -152,7 +152,7 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
 
   <p align="center">
     <a href="https://eopgame.azurewebsites.net/" target="_blank">
-      <img src="img/EoP.png" width=600>
+      <img src="img/EoP.png" width=700>
     </a>
   </p>
 
@@ -169,7 +169,7 @@ Esta sección está basada en psicología cognitiva y se refleja claramente en e
 
   <p align="center">
     <a href="https://owasp.org/www-project-api-security/" target="_blank">
-      <img src="img/owasp_api.png" width=300>
+      <img src="img/owasp_api.png" width=400>
     </a>
   </p>
 
